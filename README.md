@@ -14,7 +14,7 @@
 
 # 👋 Hi, I'm @Geetika-Sharma
 
-🚀 **DevOps & Platform Engineer with 10+ years of experience** building scalable CI/CD pipelines, cloud infrastructure, and developer platforms in enterprise environments.
+🚀 **DevOps & Platform Engineer with 11+ years of experience** building scalable CI/CD pipelines, cloud infrastructure, and developer platforms in enterprise environments.
 
 I specialize in **automation, infrastructure as code, and platform reliability**, enabling engineering teams to ship faster and operate more efficiently.
 
@@ -36,6 +36,10 @@ Hi there 👋 I'm a DevOps Engineer passionate about building **reliable, scalab
 ---
 # 🏆 Career Impact
 
+- 🤖 **AI enablement:** Rolled out GitHub Copilot org-wide; trained teams and improved developer productivity
+by 20%
+- 🤖 Developed **AI-powered Support Channel Bot** to triage and respond to support requests, improving first-
+response time by 40% and reducing manual triage effort for platform teams.
 - 🚀 Migrated **3000+ repositories to GitHub** with zero data loss  
 - 🤖 Increased developer productivity by **20%** via GitHub Copilot rollout  
 - 📊 Reduced incident response time by **75%** through monitoring dashboards  
